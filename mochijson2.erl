@@ -904,4 +904,8 @@ format_test_() ->
                    {eep18, {P}},
                    {proplist, P}]].
 
+<<<<<<< HEAD
 -endif.
+=======
+-endif.
+>>>>>>> abc07e5a82afd90e2611ab482b2be15d6790715a

@@ -73,4 +73,8 @@ getStationMean_test() ->
 	
 	
 	
+<<<<<<< HEAD
 %%addStation/2,addValue/4,removeValue/3,getOneValue/3,getStationMean/2
+=======
+%%addStation/2,addValue/4,removeValue/3,getOneValue/3,getStationMean/2
+>>>>>>> abc07e5a82afd90e2611ab482b2be15d6790715a

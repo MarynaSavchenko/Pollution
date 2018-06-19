@@ -31,3 +31,7 @@ start() ->
 	start_link([]).
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> abc07e5a82afd90e2611ab482b2be15d6790715a
